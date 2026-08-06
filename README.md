@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/a8df9a4f-0994-4792-ad38-a3102f261d49
 
 ## Description
 
-A simple Command line calculator built to do basic calculation of 2 numbers with input validation and error handling. It **add**, **sub**, **mul** and **div**. It runs in continuous loop until users exit. It handles invalid inputs. It also handles division by zero.
+A simple Command line calculator built to do basic calculation of 2 numbers with input validation and error handling. It has **add**, **sub**, **mul** and **div** as features. It runs in continuous loop until users exit. It handles invalid inputs. It also handles division by zero.
 
 ## Project Setup
 
@@ -21,7 +21,7 @@ Clone the repo in your local system using.
 
 Move to project folder using.
  ```bash
- cd cli-calcualtor-python
+ cd cli-calculator-python
  ```
 Run the project using.
  ```bash
@@ -32,8 +32,11 @@ Run the project using.
 
  This project uses **[pytest]** for testing.
 
- To install dependincies and run test suite, esecute:
+ To install dependencies and run test suite, execute:
  ```bash
  pip install pytest
  ```
- 
+To run tests, execute:
+```bash
+pytest test_Calculator.py
+``` 
