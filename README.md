@@ -22,8 +22,7 @@ Clone the repo in your local system using.
 Move to project folder using.
  ```bash
  cd cli-calcualtor-python
-    ```
-
+ ```
 Run the project using.
  ```bash
  python Calculator.py
