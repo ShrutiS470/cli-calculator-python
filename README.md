@@ -4,7 +4,11 @@ A CLI calculator made using python.
 
 ## Demo
 
-<video controls src="20260806-1925-17.0786590.mp4" title="Title"></video>
+<video controls src="[20260806-1925-17.0786590.mp4](https://github.com/user-attachments/assets/a8df9a4f-0994-4792-ad38-a3102f261d49)" title="Title"></video>
+
+
+
+
 
 ## Description
 
